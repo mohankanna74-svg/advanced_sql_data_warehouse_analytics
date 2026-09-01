@@ -1,5 +1,4 @@
-# advanced_sql_data_warehouse_analytics
-
+# advanced Sales analysis dashboard
 
 > **Turning raw customer and sales data into actionable business insights using SQL Server.**
 
