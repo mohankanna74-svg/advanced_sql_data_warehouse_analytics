@@ -1,4 +1,4 @@
-# advanced Sales analysis dashboard
+# advanced Sales analysis Project
 
 > **Turning raw customer and sales data into actionable business insights using SQL Server.**
 
